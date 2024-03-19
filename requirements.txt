@@ -1,8 +1,0 @@
-dash==2.9.1
-dash-core-components==2.0.0
-dashhtml-components==2.0.0
-dash-table==5.0.0
-flask==2.2.3
-importlib-metadata==6.1.0
-plotly=5.13.1
-gunicorn
