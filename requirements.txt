@@ -18,6 +18,7 @@ jupyter-server-mathjax==0.2.6
 munkres==1.1.4
 nbdime==4.0.1
 openpyxl==3.0.10
+pandas==2.2.1
 patsy==0.5.3
 ply==3.11
 protobuf==3.20.3
