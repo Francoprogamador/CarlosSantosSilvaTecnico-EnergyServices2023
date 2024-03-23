@@ -15,7 +15,6 @@ inflection==0.5.1
 isoduration==20.11.0
 jsonpointer==2.1
 jupyter-server-mathjax==0.2.6
-mkl-service==2.4.0
 munkres==1.1.4
 nbdime==4.0.1
 openpyxl==3.0.10
